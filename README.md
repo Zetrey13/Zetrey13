@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Zetrey13
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning react native
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me @ZR_HKING (telegram username)
+- 💞️ I’m looking to collaborate on mern stack project
+- 📫 How to reach me @Z_HKING (telegram username)
 
 <!---
 Zetrey13/Zetrey13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
